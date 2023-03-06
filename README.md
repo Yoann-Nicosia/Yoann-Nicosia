@@ -1,6 +1,11 @@
 ### Yoann Nicosia
 
-I’m currently learning web development in the college La Manu in Amiens, France
+I’m currently learning web development in the college La Manu in Amiens, France.
+
+### :hammer_and_wrench: Front-end development :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ </div>
 
 <!--
 **Yoann-Nicosia/Yoann-Nicosia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
