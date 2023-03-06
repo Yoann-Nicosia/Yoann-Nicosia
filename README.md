@@ -1,4 +1,6 @@
-### Hi there 👋
+### Yoann Nicosia
+
+I’m currently learning web development in the college La Manu in Amiens, France
 
 <!--
 **Yoann-Nicosia/Yoann-Nicosia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
